@@ -4,14 +4,14 @@
 I build **cutting-edge AI tools, web apps, and developer-friendly software**. Passionate about **Generative AI, RAG systems, and simplifying tech for beginners**.  
 
 🚀 **Founder of**:  
-- [**Ameenor**](https://github.com/Ameenor) (AI Company)  
-- [**iyuser**](https://github.com/iyuser) (Web Development)  
+- [**Ameenor**](https://ameenor.odoo.com/) (AI Company)  
+- [**iyuser**](https://ahmadjamil888.github.io/iyuser.html) (Web Development)  
 
 ---
 
 ## 🔥 **My Projects**  
 ### **AI & Chatbots**  
-- [**Ahmad GPT**](https://github.com/Ahmadjamil888/Ahmad-GPT) – Custom AI chatbot with advanced NLP.  
+- [**Ahmad GPT**]([https://github.com/Ahmadjamil888/Ahmad-GPT](https://cdn.botpress.cloud/webchat/v2.3/shareable.html?configUrl=https://files.bpcontent.cloud/2025/02/08/06/20250208060821-YOSJMP7D.json)) – Custom AI chatbot with advanced NLP.  
 - [**DocuPaste**](https://github.com/Ahmadjamil888/DocuPaste) – AI-powered document summarization & listing tool.  
 
 ### **Tools & Utilities**  
